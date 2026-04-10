@@ -1,0 +1,9 @@
+{
+  "name": "banktestapp",
+  "displayName": "banktestapp",
+
+  "extra": {
+    "DEV_BASE_URL": "http://localhost:8080",
+    "PROD_BASE_URL": "http://localhost:8080"
+  }
+}
